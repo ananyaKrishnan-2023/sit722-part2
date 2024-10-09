@@ -38,7 +38,4 @@ spec:
       port: 6000
       targetPort: 6000
       nodePort: 30000
-has context menu
 
-
-has context menu
