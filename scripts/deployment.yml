@@ -23,7 +23,7 @@ spec:
         imagePullPolicy: Never
         env:
         - name: DATABASE_URL
-          value: "postgresql://sit722_part_2_db_user:0lGbhhPyvGWCTfPSey0rhKrK0YSbNjPJ@dpg-cs316ue8ii6s738drck0-a.oregon-postgres.render.com/sit722_part_2_db"
+          value: "postgresql://sit_722_firstpart_user:wYXGaeAMciNXq57e9KYhoL1zsKAx5acq@dpg-cs3nd43v2p9s73ei78lg-a.oregon-postgres.render.com/sit_722_firstpart"
 ---
 apiVersion: v1
 kind: Service
